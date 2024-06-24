@@ -1,0 +1,9 @@
+ git command
+1 git init
+2 git remote add origin //username
+3 git add .
+4 git commit -m "Frist push" 
+5 git status
+6 git push origin
+7 git pull origin name
+ 
